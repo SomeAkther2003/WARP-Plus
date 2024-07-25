@@ -1,11 +1,11 @@
-ENV = False # or True
-INTERACTIVE_MODE = False # or True
-WARP_CLIENT_ID = "ea5a4028-35a2-4766-80b8-35b8f68fed98"
-SEND_LOG = True # or True
-HIDE_WC_ID = True # or False
+ENV = False  # or True
+INTERACTIVE_MODE = False  # or False
+WARP_CLIENT_ID = "f260c36d-3d44-4efe-a689-0baaf5cbc59b"
+SEND_LOG = True  # or True
+HIDE_WC_ID = True  # or False
 TELEGRAM_BOT_TOKEN = "7368501433:AAE3PqiYlx-psL0fxHEMYntvuUkCrDQSI3s"
-CHAT_ID = "-1002173611607"
-LOG_FILE = "runtime-log.txt" # rename if required
+CHAT_ID = "5694984277"
+LOG_FILE = "runtime-log.txt"  # rename if required
 
 # Defaults
 MSG_ID, SUCCESS_COUNT, FAIL_COUNT = False, 0, 0
